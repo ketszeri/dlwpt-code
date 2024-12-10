@@ -1,3 +1,5 @@
 .DS_Store
 tools
 *_old
+data/*
+data/p1ch2/mnist/mnist.pth
